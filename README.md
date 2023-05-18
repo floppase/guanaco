@@ -1,3 +1,3 @@
 # Guanaco
 
-A repository containing various configuration files for test projects.
+A repository containing miscellaneous configuration files for internal staging projects at WebStraw.
