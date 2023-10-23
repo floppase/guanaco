@@ -27,7 +27,7 @@
   /* CTA button styles */
   --cta-color-bg: var(--primary-color)!important;
   --cta-padding: 12px 16px!important;
-  --cta-border-radii: 4px!important;
+  --cta-border-radii: 25px!important;
   --cta-color-text: white!important; }
 
 .notion-property__title__icon-wrapper {
